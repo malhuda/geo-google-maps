@@ -3,6 +3,13 @@
  * 
  *  Script By : M. Alhuda ( Universitas Lancang Kuning )
  *  Script Created Time : 18/06/21 15:31:10 WIB
+ * 
+ * @param alamat_tinggal ( harus Tabel yang benar )
+ * @param alamat_sekolah_tujuan ( harus Tabel yang benar )
+ * @param type_penampilan ( Opsi Unit Type "miles, minutes, kilometers" )
+ * @param minutes ( Untuk Menghitung Berapa Menit Jarak Tempuh )
+ * @param miles ( Untuk Menghitung Berapa Miles Jarak Tempuh )
+ * @param kilometers ( Untuk Menghitung Berapa Kilometer Jarak Tempuh )
  * @customfunction
  */
 function GOOGLEMAPS(alamat_tinggal, alamat_sekolah_tujuan, type_penampilan) {
