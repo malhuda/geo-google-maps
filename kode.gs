@@ -30,6 +30,6 @@ function GOOGLEMAPS(alamat_tinggal, alamat_sekolah_tujuan, type_penampilan) {
     return meters / 1000;
     break;
     default:
-    return "Error Unit Type";
+    return "Error: Unit Type";
   }
 }
